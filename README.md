@@ -54,11 +54,24 @@ I'm an aspiring **Data Analyst** passionate about transforming raw data into mea
 
 ---
 
-## 🎓 Certifications
+## 🎓 My Certification
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SkillCircle-Data_Analyst_Certified-blue?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="YOUR_GITHUB_REPOSITORY_URL/certificate.png" width="700" alt="SkillCircle Data Analytics Certificate"/>
 </p>
+
+<h3 align="center">🏆 Skill Degree in Data Analytics</h3>
+
+<p align="center">
+  <b>SkillCircle × Delhi Startups</b>
+</p>
+
+<p align="center">
+  👤 Grishu Singh Rajput <br>
+  📅 June 2026 – September 2026 <br>
+  🆔 Registration No: 23144
+</p>
+
 
 **Data Analyst Certification – SkillCircle**
 
